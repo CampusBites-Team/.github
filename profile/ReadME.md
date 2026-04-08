@@ -2,6 +2,8 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![Coverage](https://img.shields.io/badge/coverage-80%25-yellow)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+
+
 **CampusBites** is a campus food ordering platform designed to simplify how students browse, order, and receive food from vendors on campus.
 
 ---
